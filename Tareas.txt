@@ -1,0 +1,5 @@
+Obtener usuarios que seguían diferentes cuentas locales: Listo
+Eliminar los repetidos: Listo
+Eliminar organizaciones: Pendiente
+Obtener Timelines de algunos: Listo
+Intentar filtrar Timelines: Pendiente.
