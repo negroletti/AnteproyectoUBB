@@ -1,0 +1,18 @@
+Scopus
+TITLE-ABS-KEY ( ( "Twitter Api"  OR  "Tweepy" )  AND  ( "Twitter Location"  OR  "Twitter Geolocation" ) ) 
+08/12/2021 Resultados 2
+--------------------------------------------------------------------------------------------
+ACM
+[All: "twitter api"] AND [[All: "twitter location"] OR [All: "twitter geolocation"]] AND [Publication Date: (01/01/2016 TO 12/31/2019)]
+08/12/2021 Resultados 15.
+--------------------------------------------------------------------------------------------
+IEEE Xplore
+("All Metadata":Twitter Api) OR ("All Metadata":Tweepy) AND ("All Metadata":location) OR ("All Metadata":Geolocation)
+08/12/2021 Resultados 273
+--------------------------------------------------------------------------------------------
+Web of Science
+twitter api (All Fields) or tweepy (All Fields) AND twitter location (All Fields) or twitter geolocation
+11/12/2021 resultados 371
+
+("Twitter Api" OR "Tweepy") AND ("Twitter Location" OR "Twitter Geolocation")
+

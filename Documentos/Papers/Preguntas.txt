@@ -1,0 +1,4 @@
+¿Cómo obtener la localización de usuarios en Twitter?
+¿Qué métodos maneja Tweepy?
+¿Qué filtros aplicar para quitar usuarios con localizaciones falsas?
+¿Existe alguna aplicación para geolocalizar usuarios en Twitter?
