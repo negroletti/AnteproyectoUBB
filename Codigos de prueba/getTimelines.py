@@ -15,7 +15,7 @@ api = tweepy.API(auth, wait_on_rate_limit=True, wait_on_rate_limit_notify=True)
 
 x=[]
 def getTimelines():
-    for tweet in tweepy.Cursor(api.user_timeline, screen_name="aguirreseba",tweet_mode="extended", include_rts=False).items(5):
+    for tweet in tweepy.Cursor(api.user_timeline, screen_name="luisnunezcatala",tweet_mode="extended", include_rts=False).items(5):
         print(json.dumps(tweet._json, indent=4))
         #x.append(json.dumps(tweet._json, indent=4))
         #f_out = open("tweets.json", "w")

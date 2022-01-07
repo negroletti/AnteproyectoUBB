@@ -12,13 +12,13 @@ auth.set_access_token(access_token,access_secret)
 
 def getTwitterUser():
     api = tweepy.API(auth)
-    user = api.get_user('ramirez_polo')
+    user = api.get_user('luisnunezcatala')
     print(json.dumps(user._json, indent=4))
-    print(json.dumps(user._json['screen_name'], indent=2))
-    print(json.dumps(user._json['location'], indent=2))
-    print(json.dumps(user._json['status']['place'], indent=2))
-    print(json.dumps(user._json['status']['geo'], indent=2))
-    print(json.dumps(user._json['status']['coordinates'], indent=2))
+    #print(json.dumps(user._json['screen_name'], indent=2))
+    #print(json.dumps(user._json['location'], indent=2))
+    #print(json.dumps(user._json['status']['place'], indent=2))
+    #print(json.dumps(user._json['status']['geo'], indent=2))
+    #print(json.dumps(user._json['status']['coordinates'], indent=2))
 
 
 if __name__ == '__main__':
